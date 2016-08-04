@@ -1,0 +1,131 @@
+_repo: The-Whole-Family--a-Novel-by-Twelve-Authors_5066
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Cutting, Mary Stewart
+    alias: Cutting, Mary Stewart Doubleday
+    birthdate: 1851
+    deathdate: 1924
+    gutenberg_agent_id: '1684'
+    url: http://www.gutenberg.org/2009/agents/1684
+  - agent_name: Andrews, Mary Raymond Shipman
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '1687'
+    url: http://www.gutenberg.org/2009/agents/1687
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Raymond_Shipman_Andrews
+  - agent_name: Howells, William Dean
+    aliases:
+    - Howells, William D. (William Dean)
+    - Howells, W. D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+  - agent_name: Bangs, John Kendrick
+    birthdate: 1862
+    deathdate: 1922
+    gutenberg_agent_id: '979'
+    url: http://www.gutenberg.org/2009/agents/979
+    wikipedia: http://en.wikipedia.org/wiki/John_Kendrick_Bangs
+  - agent_name: Vorse, Mary Heaton
+    aliases:
+    - Vorse, M. H. (Mary Heaton)
+    - Vorse, Mary Marvin Heaton
+    birthdate: 1874
+    deathdate: 1966
+    gutenberg_agent_id: '1683'
+    url: http://www.gutenberg.org/2009/agents/1683
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Heaton_Vorse
+  - agent_name: Freeman, Mary Eleanor Wilkins
+    aliases:
+    - Wilkins, Mary Eleanor
+    - Wilkins, Mary Ella
+    - Wilkins, Mary E. (Mary Eleanor)
+    - Freeman, Mary E. Wilkins (Mary Eleanor Wilkins)
+    birthdate: &id001 1852
+    deathdate: 1930
+    gutenberg_agent_id: '495'
+    url: http://www.gutenberg.org/2009/agents/495
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Eleanor_Wilkins_Freeman
+  - agent_name: Phelps, Elizabeth Stuart
+    aliases:
+    - Ward, Elizabeth Stuart Phelps
+    - Phelps, E. Stuart (Elizabeth Stuart)
+    birthdate: 1844
+    deathdate: 1911
+    gutenberg_agent_id: '1685'
+    url: http://www.gutenberg.org/2009/agents/1685
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Stuart_Phelps_Ward
+  - agent_name: Wyatt, Edith
+    alias: Wyatt, Edith Franklin
+    birthdate: 1873
+    deathdate: 1958
+    gutenberg_agent_id: '1686'
+    url: http://www.gutenberg.org/2009/agents/1686
+  - agent_name: Van Dyke, Henry
+    aliases:
+    - Dyke, Henry Jackson Van
+    - Dyke, Henry I. Van
+    - Dyke, Henry Van
+    birthdate: *id001
+    deathdate: 1933
+    gutenberg_agent_id: '362'
+    url: http://www.gutenberg.org/2009/agents/362
+    wikipedia: http://en.wikipedia.org/wiki/Henry_van_Dyke
+  - agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+  - agent_name: Brown, Alice
+    birthdate: 1857
+    deathdate: 1948
+    gutenberg_agent_id: '1688'
+    url: http://www.gutenberg.org/2009/agents/1688
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Brown_%28writer%29
+  - agent_name: Jordan, Elizabeth Garver
+    birthdate: 1867
+    deathdate: 1947
+    gutenberg_agent_id: '197'
+    url: http://www.gutenberg.org/2009/agents/197
+description: "The Whole Family: a Novel by Twelve Authors (1908) is a collaborative\
+  \ novel told in twelve chapters, each by a different author. This unusual project\
+  \ was conceived by novelist William Dean Howells and carried out under the direction\
+  \ of Harper's Bazaar editor Elizabeth Jordan, who (like Howells) would write one\
+  \ of the chapters herself. Howells' idea for the novel was to show how an engagement\
+  \ or marriage would affect and be affected by an entire family. The project became\
+  \ somewhat curious for the way the authors' contentious interrelationships mirrored\
+  \ the sometimes dysfunctional family they described in their chapters. Howells had\
+  \ hoped Mark Twain would be one of the authors, but Twain did not participate. Other\
+  \ than Howells himself, Henry James was probably the best-known author to participate.\
+  \ The novel was serialized in Harper's Bazaar in 1907-08 and published as a book\
+  \ by Harpers in late 1908.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5066'
+  wikidata: Q3916757
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Domestic fiction'
+- GITenberg
+tableOfContents: The father / William Dean Howells -- The old-maid aunt / Mary E.
+  Wilkins Freeman -- The grandmother / Mary Heaton Vorse -- The daughter-in-law /
+  Mary Stewert Cutting -- The school-girl / Elizabeth Jordan -- The son-in-law / John
+  Kendrick Bangs -- The married son / Henry James -- The married daughter / Elizabeth
+  Stuart Phelps -- The mother / Edith Wyatt -- The school-boy / Mary Raymond Shipman
+  Andrews -- Peggy / Alice Brown -- The friend of the family / Henry Van Dyke.
+title: 'The Whole Family: a Novel by Twelve Authors'
+url: http://www.gutenberg.org/ebooks/5066
+wikipedia:
+- https://ml.wikipedia.org/wiki/%E0%B4%A6%E0%B4%BF_%E0%B4%B9%E0%B5%8B%E0%B5%BE_%E0%B4%AB%E0%B4%BE%E0%B4%AE%E0%B4%BF%E0%B4%B2%E0%B4%BF
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D8%A9_%D8%A8%D8%A3%D9%83%D9%85%D9%84%D9%87%D8%A7
+- https://en.wikipedia.org/wiki/The_Whole_Family
+- https://pt.wikipedia.org/wiki/The_Whole_Family
