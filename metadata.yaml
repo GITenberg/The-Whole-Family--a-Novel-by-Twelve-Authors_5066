@@ -1,5 +1,5 @@
 _repo: The-Whole-Family--a-Novel-by-Twelve-Authors_5066
-_version: 0.0.1
+_version: 0.1.0
 creator:
   authors:
   - agent_name: Cutting, Mary Stewart
@@ -44,7 +44,7 @@ creator:
     - Wilkins, Mary Ella
     - Wilkins, Mary E. (Mary Eleanor)
     - Freeman, Mary E. Wilkins (Mary Eleanor Wilkins)
-    birthdate: &id001 1852
+    birthdate: 1852
     deathdate: 1930
     gutenberg_agent_id: '495'
     url: http://www.gutenberg.org/2009/agents/495
@@ -69,7 +69,7 @@ creator:
     - Dyke, Henry Jackson Van
     - Dyke, Henry I. Van
     - Dyke, Henry Van
-    birthdate: *id001
+    birthdate: 1852
     deathdate: 1933
     gutenberg_agent_id: '362'
     url: http://www.gutenberg.org/2009/agents/362
