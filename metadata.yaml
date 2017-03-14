@@ -1,5 +1,8 @@
 _repo: The-Whole-Family--a-Novel-by-Twelve-Authors_5066
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Cutting, Mary Stewart
@@ -103,6 +106,8 @@ description: "The Whole Family: a Novel by Twelve Authors (1908) is a collaborat
   \ than Howells himself, Henry James was probably the best-known author to participate.\
   \ The novel was serialized in Harper's Bazaar in 1907-08 and published as a book\
   \ by Harpers in late 1908.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5066#The-Whole-Family--a-Novel-by-Twelve-Authors
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
